@@ -43,7 +43,7 @@ The repository is organized into subdirectories, each representing a service. Ea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JackieTreeh0rn/Orchestration-Stacks.git
+git clone https://github.com/BitWise-0x/Orchestration-Stacks.git
 cd Orchestration-Stacks
 ```
 
